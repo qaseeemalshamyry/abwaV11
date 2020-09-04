@@ -1,1 +1,1 @@
-{'ver1':'11', 'ver2':'00', 'ver3':'\nتحديث واتساب ابن الحاج\n جديد \n' , 'dli':'https://www.abnalhaj77.com'}
+{'ver1':'1', 'ver2':'00', 'ver3':'\nتحديث واتساب  قاسم الشميري\n جديد \n' , 'dli':'https://kaseem11.blogspot.com/?m=1'}
